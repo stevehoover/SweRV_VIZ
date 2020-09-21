@@ -86,7 +86,7 @@
    *failed = 1'b0;
 
    /dummy
-      \viz
+      \viz_alpha
          initEach: function() {
             debugger;
             let cycCntText = new fabric.Text("",
